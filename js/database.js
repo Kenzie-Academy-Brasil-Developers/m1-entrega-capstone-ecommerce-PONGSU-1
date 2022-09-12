@@ -61,4 +61,34 @@ const data = [
     addCart: "Adicionar ao carrinho",
     tag: ["Camisetas"],
   },
+  {
+    id: 7,
+    img: "../img/trilha.png",
+    nameItem: "Tenis para Trilha",
+    description:
+      "Este com certeza é o calçado que você precisa para sua trilha. Conforto e proteção para o...",
+    value: 190.57,
+    addCart: "Adicionar ao carrinho",
+    tag: ["Calçados"],
+  },
+  {
+    id: 8,
+    img: "../img/bota_caminhada.png",
+    nameItem: "Bota de Caminhada",
+    description:
+      "Essa bota chegou para revolucionar, garante proteção para seus pés e conforto enquanto...",
+    value: 140,
+    addCart: "Adicionar ao carrinho",
+    tag: ["Calçados"],
+  },
+  {
+    id: 9,
+    img: "../img/bota.png",
+    nameItem: "Bota Premium",
+    description:
+      "Para quem sabe combinar estilo com um calçado de alta qualidade, não vai perder essa...",
+    value: 100,
+    addCart: "Adicionar ao carrinho",
+    tag: ["Calçados"],
+  },
 ];
